@@ -393,4 +393,8 @@ textarea{
     .Indesign iframe{
         width: 200px;
     }
+
+    .disenografico h2{
+        font-size: 2rem;
+    }
 }
