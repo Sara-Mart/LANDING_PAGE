@@ -399,9 +399,15 @@ textarea{
 
     .disenografico .ilustraciones{
     display: block;
-    width: 50%;
+    
 
     }
+    .disenografico .ilustraciones img{
+    width: 50%;
+    
+
+    }
+
 
 footer{
     position: relative;
