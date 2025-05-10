@@ -399,8 +399,7 @@ textarea{
     }
 
     .disenografico .ilustraciones img{
-    flex: 1 1 calc(50% - 1rem);
-    max-width: calc(50% - 1rem);
+    display: block;
 
     }
 
