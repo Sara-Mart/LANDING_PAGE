@@ -163,7 +163,7 @@ footer{
 
     ul {
         position: fixed;
-        width: 30%;
+        width: 50%;
         height: 100vh;
         background-color: var(--secundary);
         top: 10vh;
