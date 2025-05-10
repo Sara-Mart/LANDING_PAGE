@@ -376,8 +376,7 @@ textarea{
 }
 
 .Indesign iframe {
-  flex: 0 1 calc(50% - 20px); /* 2 por fila, con espacio */
-  height: 450px;
+
   position: absolute;
   top: 0;
   left: 0;
@@ -396,9 +395,6 @@ textarea{
         font-size: 12px;
     }
 
-    .Indesign iframe{
-        width: 200px;
-    }
 
     .disenografico h2{
         font-size: 1rem;
