@@ -396,10 +396,16 @@ textarea{
         font-size: 1rem;
     }
 
+    .disenografico .ilustraciones{
+    flex: 1 1 calc(50% - 1rem);
+    max-width: calc(50% - 1rem);
+
+    }
+
 footer{
     position: relative;
     margin-top: 20px;
-    margin-bottom: 0;
+    
 
 }
 }
