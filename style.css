@@ -398,8 +398,9 @@ textarea{
         font-size: 1rem;
     }
 
-    .disenografico .ilustraciones {
+    .disenografico .ilustraciones{
     display: block;
+    width: 50vh;
 
     }
 
