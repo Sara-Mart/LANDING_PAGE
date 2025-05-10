@@ -375,11 +375,7 @@ textarea{
   justify-content: center;
 }
 
-.Indesign iframe {
-  flex: 0 1 calc(50% - 20px); /* 2 por fila, con espacio */
-  
 
-}
 
 @media(max-width:767px){
 
@@ -391,9 +387,7 @@ textarea{
         font-size: 12px;
     }
 
-    .Indesign iframe{
-        width: 200px;
-    }
+
 
     .disenografico h2{
         font-size: 1rem;
