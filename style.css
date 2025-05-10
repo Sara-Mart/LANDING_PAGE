@@ -359,6 +359,8 @@ textarea{
 }
 
 .disenografico .ilustraciones img{
+    flex: 1 1 calc(25% - 1rem);
+    max-width: calc(25% - 1rem);
     width: 15%;
     border-radius: 10px;
     margin-top: 20px;
@@ -396,7 +398,7 @@ textarea{
         font-size: 1rem;
     }
 
-    .disenografico .ilustraciones{
+    .disenografico .ilustraciones img{
     flex: 1 1 calc(50% - 1rem);
     max-width: calc(50% - 1rem);
 
