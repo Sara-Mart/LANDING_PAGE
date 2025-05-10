@@ -396,7 +396,9 @@ textarea{
         font-size: 1rem;
     }
 
-    footer{
-        position:relative;
-    }
+footer{
+    position: relative;
+    margin-top: 20px;
+
+}
 }
