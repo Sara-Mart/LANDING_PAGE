@@ -398,7 +398,7 @@ textarea{
     }
 
     .disenografico .ilustraciones{
-    display: block;
+    display: flex;
     
 
     }
