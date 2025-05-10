@@ -83,7 +83,7 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    display: block;
+    
 }
 
 h1{
@@ -145,7 +145,7 @@ footer{
     text-align: center;
     justify-content: center;
     padding: 5px;
-    position: relative;
+    position: fixed;
     bottom: 0;
     color: var(--secundary);
 
