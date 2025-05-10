@@ -386,6 +386,9 @@ textarea{
         text-align: center;
     }
 
+.TrabajoIndesign a:hover{
+    text-decoration: underline;
+}
 
 
 @media(max-width:767px){
